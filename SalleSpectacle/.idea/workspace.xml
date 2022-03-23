@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da38dab-9815-4f33-ae83-c13767949aba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/reservation/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/reservation/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/reservation/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation/static/reservation/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/reservation/static/reservation/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
