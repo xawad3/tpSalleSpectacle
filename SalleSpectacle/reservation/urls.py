@@ -8,3 +8,6 @@ urlpatterns= [
     path('<int:pk>/', views.the_event.as_view(), name='the_event'),
     path('<int:pk>/')
 ]
+
+
+    # path('<int:pk>/', views.the_event.as_view(), name='the_event'),
